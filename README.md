@@ -8,5 +8,7 @@ Mac os:<br>
 ```conda create --name detection_env python=3.9```
 2. Packages:
 - tensorflow 2.13
+- tensorflow-datasets 4.9.2
 - fiftyone 0.21.2
 - ipykernel (for vscode jupyter notebooks?)
+- opencv-python 4.9.0.74
